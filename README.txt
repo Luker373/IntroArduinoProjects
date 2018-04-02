@@ -1,3 +1,3 @@
 Various Arduino Projects! 
 
-Made by Luke Hartlage 
+Made by Luke Hartlage for fun
